@@ -3,7 +3,7 @@
   "type": "symfony-bundle",
   "description": "",
   "keywords": [
-    "creonit",
+    "mireichyk",
     "symfony",
     "sendpulse"
   ],
@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Creonit\\SendPulseMailer\\": ""
+      "Mireichyk\\SendPulseMailer\\": ""
     }
   }
 }
