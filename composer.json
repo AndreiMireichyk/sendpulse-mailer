@@ -1,5 +1,5 @@
 {
-  "name": "creonit/sendpulse-mailer",
+  "name": "AndreiMireichyk/sendpulse-mailer",
   "type": "symfony-bundle",
   "description": "",
   "keywords": [
@@ -10,8 +10,8 @@
   "license": "GPL-3.0-only",
   "authors": [
     {
-      "name": "Alexey Sergeev",
-      "email": "a.sergeev.creonit@gmail.com"
+      "name": "AndreiMireichyk",
+      "email": "AndreiMireichyk@gmail.com"
     }
   ],
   "require": {
